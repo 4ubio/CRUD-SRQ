@@ -4,7 +4,7 @@
     <meta charset = "UTF-8">
     <title>Sebastian's Crud</title>
     <!-- bootstrap 4 -->
-    <link rel="stylesheet" href="https://bootswatch.com/5/lux/bootstrap.min.css" >
+    <link rel="stylesheet" href="https://bootswatch.com/5/cyborg/bootstrap.min.css" >
 </head>
 
 <body>
